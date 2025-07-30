@@ -3,6 +3,7 @@ a unity vr/xr locomotion system using physics to move around by moving your hand
 
 
 # Setup
+Make sure you have XR Inputs installed for it to work if you dont get it from https://github.com/HuhMonk/XRInputs/releases
 When you import HuhLoco unity package into unity open the folder you imported called Physics Rig
 then open Prefabs and drag in the HuhLoco (PID) prefab into your scene and then setups is done
 remember that for best networking on your multiplayer manager right and left hands should be the physics hands
