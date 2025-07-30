@@ -30,6 +30,9 @@ for using any of these things remember to add this into your script
 using HuhLoco;
 ```
 
+### Movement Restrictions
+i aded a enum to The Physics Hands Called MovementAllowment where if its allowed then player can move else if its restricted player wont be able to move its mostly made for teleporting scripts but yeah
+
 ## Events
 
 this is for physics grabbing since its the only one made so far with events some heres the example
