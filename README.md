@@ -8,7 +8,7 @@ then open Prefabs and drag in the HuhLoco (PID) prefab into your scene and then 
 remember that for best networking on your multiplayer manager right and left hands should be the physics hands
 
 # Recommended Settings
-Settings I Would Recommend for what type of hand physics you want
+Settings I Would Recommend for what type of hand physics you want : **This is on the PhysicsHand Script**
 
 for bouncy like the vr game Capuchin Settings:
 - Climb Force: 1000
