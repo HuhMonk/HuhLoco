@@ -1,3 +1,5 @@
+<a href="https://discord.gg/8tuuGjuEE9"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
+
 # HuhLoco
 a unity vr/xr locomotion system using physics to move around by moving your hands on the ground like the game Gorilla Tag
 
