@@ -11,7 +11,7 @@ then open Prefabs and drag in the XR Origin Physics prefab into your scene and t
 remember that for best networking on your multiplayer manager right and left hands should be the physics hands
 
 # Recommended Settings
-Settings I Would Recommend for what type of physics you want : **This is on the RandomPhysics Script**
+Settings I Would Recommend for what type of physics you want : **This is on the PhysicsRig Script**
 
 - Spring = 5000
 - Damper = 100 or 125
