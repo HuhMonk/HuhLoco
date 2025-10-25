@@ -28,5 +28,5 @@ using HuhLoco;
 
 you can use the instance from
 ```csharp
-    HuhLoco.PhysicsRig.Instance
+HuhLoco.PhysicsRig.Instance
 ```
